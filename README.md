@@ -28,5 +28,5 @@ Q:为什么管理员页面不汉化完成？
 A:因为我认为管理员应当有一定的英语水平，没有汉化的内容均是十分基础的内容。   
 
 ## 联系
-博客：https://blog.didctf.com  
+博客：https://www.zhangz.cc
 邮箱：gsupl@qq.com  
